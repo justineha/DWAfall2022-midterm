@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Dynamic Web Applications, Midterm Project (Fall 2022) - Justine Ha
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
