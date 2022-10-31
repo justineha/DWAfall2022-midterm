@@ -1,7 +1,7 @@
 import './App.css';
 import Home from './pages/Home'
-import Generator from './pages/PlayerPic';
-import Definition from './pages/NBAPlayer';
+import Player from './pages/PlayerPic';
+import Picture from './pages/NBAPlayer';
 import {
   createBrowserRouter, 
   RouterProvider, 
@@ -16,6 +16,10 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Player />,
+  },
+  {
+    path: "/",
+    element: <Picture />,
   },
 ]);
 
